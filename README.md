@@ -2,6 +2,11 @@
 - This is a simple web template project using vanilla javascript and pure.css, there is no bundler such as webpack but only live-server.
 - This template is not recommended for production apps but only for small testing like POC activities.
 
+## Tech stack
+- Vanilla Javascript
+- Axios
+- js-cookie
+- Pure.css
 
 # Usages
 1. Run `npm install` to install all dependencies
